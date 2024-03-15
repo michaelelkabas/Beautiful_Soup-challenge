@@ -14,7 +14,7 @@ In this activity, you will create an application that reads in cereal data from 
 
 * `csv.reader` begins reading the CSV file from the first row. `next(csv_reader, None)` will skip the header row.
 
-  * Refer to this Stack Overflow post on [how to skip the header](https://stackoverflow.com/a/14257599) for more information.
+    * Refer to this Stack Overflow post on [how to skip the header](https://stackoverflow.com/a/14257599) for more information.
 
 * Integers in Python are whole numbers and, as such, cannot contain decimals. Decimal numbers As such, your numbers containing decimal points will have to be cast as a `float`.
 

@@ -8,9 +8,9 @@ In this activity, you will create a function that searches a list of students an
 
 * Using the starter code provided, create a function called `print_percentages` which takes in a parameter called `state_data` and does the following:
 
-  * Uses the data stored within `state_data` to calculate the estimated graduation rates in each category of Title IV 4-year institutions (public, non-profit private, and for-profit private).
+    * Uses the data stored within `state_data` to calculate the estimated graduation rates in each category of Title IV 4-year institutions (public, non-profit private, and for-profit private).
 
-  * Prints out the graduation rates for each school type for the state to the terminal.
+    * Prints out the graduation rates for each school type for the state to the terminal.
 
 Note: Some states do not have non-profit or for-profit private schools, so data must be checked for zeros
 

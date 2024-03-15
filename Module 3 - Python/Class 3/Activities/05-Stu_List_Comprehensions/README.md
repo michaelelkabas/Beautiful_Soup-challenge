@@ -8,9 +8,9 @@ In this activity, you’ll use list comprehensions to compose a wedding invitati
 
 * Run the provided program. Note that nothing forces you to write the name properly in title case&mdash;for example, as "Jane" instead of "jAnE". You will use list comprehensions to fix this.
 
-  * First, use list comprehensions to create a new list that contains the lowercase version of each of the names your user provided.
+    * First, use list comprehensions to create a new list that contains the lowercase version of each of the names your user provided.
 
-  * Then, use list comprehensions to create a new list that contains the title-case versions of each of the names in your lowercase list.
+    * Then, use list comprehensions to create a new list that contains the title-case versions of each of the names in your lowercase list.
 
 ## Hint
 
